@@ -1,2 +1,59 @@
 # harryy
 whatever
+!doctype.html>
+<html>
+	
+	<head>
+	
+		<title>session2 25 ex1</title>
+		
+	<style>
+	
+	#box
+	{
+		border-top:1px black solid;
+		display:flex;
+		width:60%;
+	}	
+	.minibox
+	{
+		border-bottom:5px black solid;
+		justify-content:center;
+		margin:20px 20px 0 20px;
+	}
+	</style>
+	
+	</head>
+		<body>
+		
+		<h1>Welcome to HTML.net</h1>
+		
+		<p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+		
+		<h2>Tutorial</h2>
+		
+		<div id="box">
+			<div class="minibox">
+				<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Harry_Potter_DHF1.jpg/revision/latest/thumbnail/width/360/height/360?cb=20140603201724.jpg" alt="whatever" width="200px">
+				<p>Etap 1</p>
+				<h3>apprendre html</h3>
+				<p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+			</div>
+			
+			<div class="minibox">
+				<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Harry_Potter_DHF1.jpg/revision/latest/thumbnail/width/360/height/360?cb=20140603201724.jpg" alt="harry" width="200px">
+				<p>Etap 2</p>
+				<h3>apprendre css</h3>
+				<p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+			</div>
+				
+			<div class="minibox">
+				<img src="https://static.wikia.nocookie.net/harrypotter/images/c/ce/Harry_Potter_DHF1.jpg/revision/latest/thumbnail/width/360/height/360?cb=20140603201724.jpg" alt="harry" width="200px">
+				<p>Etap 2</p>
+				<h3>apprendre css</h3>
+				<p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+			</div>
+		</div>
+
+		</body>
+</html>
